@@ -1,0 +1,95 @@
+header{
+	background-color: black;
+	background-image: url('images/header.jpg');
+	background-size: 100%;
+	height: 500px;
+}
+
+.collegetitle{
+	color: black;
+}
+#pagetitle{
+	max-width: 780px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 36px;
+	font-weight: normal;
+	color: white;
+	text-align: center;
+    position: relative;
+    top: 230px;
+    margin: 0 auto;
+}
+
+#vrk{
+	display: block;
+	margin: -50px auto;
+	width: 100px;
+	border-radius: 100%;
+	border: 1px white;
+}
+
+#profile_text{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: bold;
+	color: rgb(51, 51, 51);
+	margin: 50px;
+	text-align: center;
+
+}
+
+#profile_text span{
+	font-style: italic;
+}
+
+hr{
+   height: 2px;
+   width: 20%;
+   color: #e6e6e6;
+}
+
+.a #number{
+	border: 40px;
+	color: rgba(0, 0, 0, 0.25);
+	margin-left: 180px;
+}
+
+.a span{
+	font-family: 'Roboto Slab', serif;
+	font-size: 36px;
+	font-weight: bold;
+	margin: 20px 40px 20px 0;
+}
+
+.a a{
+	color: #42b4d6;
+	text-decoration: none;
+	margin: 20px 350px 20px 250px;
+}
+
+.a p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	line-height: 32px;
+	color: rgb(51, 51, 51);
+	margin-left: 16.67%;
+	margin-right: 16.67%;
+}
+
+strong{
+	margin: 20px 350px 20px 250px;
+	font-size: 18px;
+}
+
+div #r{
+    font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+	margin-left: -320px;
+}
+
+.a img{
+	width: 66.67%;
+	margin:20px 100px 120px 250px;
+}
